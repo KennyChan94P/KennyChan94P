@@ -4,6 +4,7 @@
 **KennyChan94P/KennyChan94P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<figure><embed src="https://wakatime.com/share/@kennychan/5949628c-c30d-4188-b7fc-7a4e0c07281b.svg"></embed></figure>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
